@@ -1,4 +1,4 @@
-# thumby-rickroll
+# thumby-roll
 You know the rules, and so do i
 
 Little thumby video project based on https://thumby.us/Education/Play-Video/.
